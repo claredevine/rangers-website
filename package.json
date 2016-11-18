@@ -1,0 +1,11 @@
+{
+  "name": "ranger-website",
+  "version": "1.0.0",
+  "description": "Girlguiding resource for 1st Armley Rangers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Clare Devine",
+  "license": "ISC"
+}
