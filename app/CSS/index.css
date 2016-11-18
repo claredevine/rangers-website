@@ -1,3 +1,31 @@
 body {
-  
+  padding: 0;
+  margin: 0;
+}
+
+#navBar {
+  width: 100%;
+  height: 80px;
+  background-color: blue;
+}
+
+#navBarLeft {
+  width: 50%;
+  height: 80px;
+  float: left;
+}
+
+#navBarRight {
+  width: 50%;
+  height: 80px;
+  float: right;
+}
+
+#navBarRight ul{
+  list-style-type: none;
+}
+
+#navBarRight li{
+  display: inline;
+  font-size: 25px;
 }
