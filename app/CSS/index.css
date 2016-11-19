@@ -51,3 +51,7 @@ body {
 #navBarRight a:hover {
   color: #009dad;
 }
+
+#navBarRight a:active {
+  color: #009dad;
+}
