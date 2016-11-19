@@ -48,10 +48,10 @@ body {
   color: inherit;
 }
 
-#navBarRight a:hover {
+#navBarRight a:hover, a:hover {
   color: #009dad;
 }
-
+/*
 #navBarRight a:active {
   color: #009dad;
-}
+}*/
