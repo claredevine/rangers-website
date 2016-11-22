@@ -63,3 +63,7 @@ body {
   display: inline-block;
   color: #009dad !important;
 }
+
+.active {
+  color: #009dad !important;
+}
