@@ -43,34 +43,6 @@ body {
   padding-right: 8px;
 }
 
-#navBarRight li .dropdown {
-  display: inline-block;
-}
-
-#navBarRight .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-#navBarRight .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-#navBarRight .dropdown-content a:hover {
-  background-color: #f1f1f1;
-}
-
-#navBarRight .dropdown:hover .dropdown-content {
-    display: block;
-}
-
 #navBarRight a {
   text-decoration: none;
   color: inherit;
