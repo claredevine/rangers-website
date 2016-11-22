@@ -13,6 +13,9 @@ body {
 #navBarLeft {
   width: 50%;
   float: left;
+}
+
+#navBarLeft ul {
   margin-top: 15px;
 }
 
@@ -32,7 +35,7 @@ body {
   list-style-type: none;
   color: white;
   text-align: center;
-  padding-top: 21px;
+  margin-top: 25px;
 }
 
 #navBarRight li{
