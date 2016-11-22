@@ -53,3 +53,13 @@ body {
 #navBarRight a:hover {
   color: #009dad;
 }
+
+.dropdown-toggle {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.dropdown-menu a {
+  display: inline-block;
+  color: #009dad !important;
+}
