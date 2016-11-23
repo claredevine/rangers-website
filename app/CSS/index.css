@@ -67,3 +67,12 @@ body {
 .active {
   color: #009dad !important;
 }
+
+footer {
+  display: block;
+}
+
+footer p {
+  font-family: 'Open Sans', sans-serif;
+  color: #009dad !important;
+}
