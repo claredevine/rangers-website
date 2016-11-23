@@ -36,7 +36,7 @@ footer, .page-wrap:after {
 #navBarLeft li{
   display: inline;
   font-size: 27px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   color: white;
 }
 
@@ -54,8 +54,8 @@ footer, .page-wrap:after {
 
 #navBarRight li{
   display: inline;
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+  font-family: 'Trebuchet MS', sans-serif;
   padding-right: 20px;
 }
 
@@ -65,12 +65,12 @@ footer, .page-wrap:after {
 }
 
 #navBarRight a:hover {
-  color: #009dad;
+  color: #DCE7F4;
 }
 
 .dropdown-toggle {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+  font-family: 'Trebuchet MS', sans-serif;
 }
 
 .dropdown-menu a {
@@ -79,12 +79,21 @@ footer, .page-wrap:after {
 }
 
 .active {
-  color: #009dad !important;
+  color: #DCE7F4 !important;
 }
 
 section {
   margin-top: 70px;
   background-color: white;
+}
+
+.bitOfPadding {
+  padding: 10px;
+}
+
+#homeContent h2, h4 {
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: center;
 }
 
 footer {
@@ -93,7 +102,7 @@ footer {
 }
 
 footer p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   text-align: center;
   color: #009dad !important;
   margin: 0;
