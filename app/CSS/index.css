@@ -106,6 +106,24 @@ section {
   font-size: 20px;
 }
 
+.lookWider a {
+  max-width: 30px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.lookWider h1 {
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.lookWider h3 {
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
 footer {
   padding-top: 20px;
   background-color: white;
