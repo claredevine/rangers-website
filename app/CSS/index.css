@@ -137,7 +137,12 @@ section {
 #lookWiderCreativity p {
   font-family: 'Trebuchet MS', sans-serif;
   font-size: 15px;
-  padding-left: 10px;
+}
+
+#lookWiderCreativity {
+  font-family: 'Trebuchet MS', sans-serif;
+  padding-left: 35%;
+  padding-right: 35%;
 }
 
 footer {
