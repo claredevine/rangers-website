@@ -124,6 +124,22 @@ section {
   font-size: 20px;
 }
 
+.lookWider p {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+#lookWiderCreativity h1 {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+}
+
+#lookWiderCreativity p {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
 footer {
   padding-top: 20px;
   background-color: white;
