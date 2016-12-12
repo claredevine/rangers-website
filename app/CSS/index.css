@@ -96,6 +96,55 @@ section {
   text-align: center;
 }
 
+.bitOfPaddingAbout {
+  padding: 20px;
+}
+
+#aboutUs p {
+  text-align: center;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+.lookWider a {
+  max-width: 30px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.lookWider h1 {
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.lookWider h3 {
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+.lookWider p {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+#lookWiderCreativity h1 {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+}
+
+#lookWiderCreativity p {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+}
+
+#lookWiderCreativity {
+  font-family: 'Trebuchet MS', sans-serif;
+  padding-left: 35%;
+  padding-right: 35%;
+}
+
 footer {
   padding-top: 20px;
   background-color: white;
