@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>1st Armley Rangers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <link rel="stylesheet" type="text/css" href="app/CSS/index.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -52,7 +53,11 @@
     </article>
     <article class="logo">
       <center>
-        <img src="app/Images/unitLogo.jpg" alt="">
+        <picture>
+          <source srcset="app/Images/unitLogoMobile.jpg" media="(max-width: 400px)">
+          <source srcset="app/Images/unitLogo.jpg">
+            <img src="app/Images/unitLogo.jpg" />
+        </picture>
       </center>
     </article>
     <article class="bitOfPadding">
